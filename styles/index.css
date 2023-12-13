@@ -1,17 +1,12 @@
 @font-face {
-  font-family: Inter;
-  src: url(../fonts/Inter-Regular.ttf);
-}
-
-@font-face {
-  font-family: InterBold;
-  src: url(../fonts/Inter-Bold.ttf);
+  font-family: "Inter", sans-serif;
 }
 
 body {
   background-color: #ff7b54;
   color: #ffff;
-  font-family: InterBold;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
 }
 
 a {
